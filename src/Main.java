@@ -15,4 +15,5 @@ Scanner scanner = new Scanner(System.in);
       area = width * height;
       System.out.println("the rea is " + area+"  cm^2 ");
       scanner.close();
+      System.out.println("hello world");
   }}
