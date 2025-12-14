@@ -1,0 +1,136 @@
+9-DAY CRASH PLAN (NO FLUFF)
+Day 1 – Java basics
+
+What is Java
+
+JDK, JVM, JRE (very basic idea)
+
+Write first program
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+
+
+👉 Goal: Run Java without fear.
+
+Day 2 – Variables & Data Types
+
+int, double, char, boolean, String
+
+Print values
+
+Example:
+
+int age = 21;
+System.out.println(age);
+
+
+👉 Goal: Store and use data.
+
+Day 3 – Conditions
+
+if, else, else if
+
+Example:
+
+if (age >= 18) {
+    System.out.println("Adult");
+}
+
+
+👉 Goal: Make decisions in code.
+
+Day 4 – Loops
+
+for loop
+
+while loop
+
+Example:
+
+for (int i = 1; i <= 5; i++) {
+    System.out.println(i);
+}
+
+
+👉 Goal: Repeat work without copy-paste.
+
+Day 5 – Class, Object, Method (VERY IMPORTANT)
+
+class = blueprint
+
+object = real thing
+
+method = function
+
+Example:
+
+class Student {
+    void study() {
+        System.out.println("Studying");
+    }
+}
+
+
+👉 Goal: Understand OOP basics.
+
+Day 6 – public, static, void, main
+
+Why main is static
+
+Why public is used
+
+Method calling
+
+You already struggled here, so revise calmly.
+
+👉 Goal: Explain basics in interview.
+
+Day 7 – Arrays + Basic Programs
+
+int[] marks
+
+simple programs:
+
+sum of numbers
+
+even/odd
+
+reverse number
+
+👉 Goal: Problem-solving confidence.
+
+Day 8 – Mini Practice Day
+
+Write small programs:
+
+calculator
+
+student details
+
+number guessing game
+
+👉 Goal: “Yes, I can code.”
+
+Day 9 – Interview prep + revision
+
+Revise:
+
+class
+
+object
+
+method
+
+public
+
+static
+
+Practice explaining out loud
+
+Read basic theory from PrepInsta
+
+👉 Goal: Sound human and confident.
