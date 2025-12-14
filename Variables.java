@@ -33,7 +33,14 @@ public class Variables {
 
     //String
     String name = "Augustine Shaji";
-    System.out.print("Hello "+name);
+    System.out.println("Hello "+name);
+
+
+
+    //All varibales included
+
+    System.out.println("Your name is "+name + "\n your age is " + age + " \n You got" + " "+mark+" "+"in  the last exam"
+    +"\n are you a student"+ isStudent);
 
     }
     
