@@ -1,7 +1,13 @@
 import java.util.Scanner;
-public class InputUser {
-    public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
+
+import javax.print.DocFlavor.STRING;
+public class InputUser
+{
+    public static void main(String[] args)
+{   Scanner sc = new Scanner(System.in);
+    /* 
+    
+
 
     System.out.println("Enter your name :");
     String name = sc.nextLine();
@@ -21,12 +27,28 @@ public class InputUser {
     System.out.println("Your age is "+age);
     System.out.println("Your GPA is : "+gpa);
 
-    if(student){
+    if(student)
+{
         System.out.println("You can enter to the class");
-    }
+}
     else{
         System.out.println("You can't enter into the class");
-    }
+}
+*/
 
-    }
+//Commen issue
+
+System.out.println("Enter  your age");
+int age = sc.nextInt();
+sc.nextLine();
+
+System.out.println("Enter your faviourite colour");
+String colour = sc.nextLine();
+
+
+System.out.println("your age is :" + age);
+System.out.println("Your faviourite coloue :" +colour );
+
+
+}
 }
