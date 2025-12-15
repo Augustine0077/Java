@@ -19,7 +19,7 @@ public class ShoppingCart {
         
         total = price *number_item;
 
-        System.out.println("you have bought "+number_item+" and the full price is :"+ total);
+        System.out.println("you have bought "+number_item+"and the full price is :"+ total);
         sc.close();
 
 
