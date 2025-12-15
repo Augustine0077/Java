@@ -41,6 +41,7 @@ public class InputUser
 System.out.println("Enter  your age");
 int age = sc.nextInt();
 sc.nextLine();
+ // in here to avoid the buffer included the buffer method ..for that used the--> sc.nextLinr()
 
 System.out.println("Enter your faviourite colour");
 String colour = sc.nextLine();
